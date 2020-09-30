@@ -20,3 +20,6 @@ Includes :
     - copy the `NordArc-Theme` directory into `/usr/share/themes/` or `/usr/local/share/themes/`
     - copy the `NordArc-Icons` directory into `/usr/share/icons/` or `/usr/local/share/icons/`
 
+## Wallpaper
+
+Source: [Pixabay](https://pixabay.com/photos/sky-clouds-sunlight-dark-690293/)
