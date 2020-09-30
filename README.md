@@ -1,6 +1,6 @@
 # NordArc GTK / Shell / Icon theme
 
-![NordArc Theme](https://raw.githubusercontent.com/robertovernina/NordArc/.github/NordArc-Logo.png)
+![NordArc Theme](https://raw.githubusercontent.com/robertovernina/NordArc/master/.github/NordArc-Logo.png)
 
 A dark theme package based on [Arc GTK Theme](https://github.com/jnsh/arc-theme), customised with [Oomox/Themix](https://github.com/themix-project/oomox) using the beautiful [Nord](https://www.nordtheme.com/) Color Palette.
 Includes :
@@ -13,9 +13,9 @@ Includes :
 
 ## Screenshot
 
-![NordArc Gnome 1](https://raw.githubusercontent.com/robertovernina/NordArc/.github/NordArc-Gnome-01.png)
-![NordArc Gnome 2](https://raw.githubusercontent.com/robertovernina/NordArc/.github/NordArc-Gnome-02.png)
-![NordArc Gnome 3](https://raw.githubusercontent.com/robertovernina/NordArc/.github/NordArc-Gnome-03.png)
+![NordArc Gnome 1](https://raw.githubusercontent.com/robertovernina/NordArc/master/.github/NordArc-Gnome-01.png)
+![NordArc Gnome 2](https://raw.githubusercontent.com/robertovernina/NordArc/master/.github/NordArc-Gnome-02.png)
+![NordArc Gnome 3](https://raw.githubusercontent.com/robertovernina/NordArc/master/.github/NordArc-Gnome-03.png)
 
 ## Installation
 
