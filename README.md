@@ -1,6 +1,8 @@
 # NordArc GTK / Shell / Icon theme
 
-A full theme package based on [Arc GTK Theme](https://github.com/jnsh/arc-theme), customised with [Oomox/Themix](https://github.com/themix-project/oomox) using the beautiful [Nord](https://www.nordtheme.com/) Color Palette.
+![NordArc Theme](https://raw.githubusercontent.com/robertovernina/NordArc/.github/NordArc-Logo.png)
+
+A dark theme package based on [Arc GTK Theme](https://github.com/jnsh/arc-theme), customised with [Oomox/Themix](https://github.com/themix-project/oomox) using the beautiful [Nord](https://www.nordtheme.com/) Color Palette.
 Includes :
 - GTK 2.0 / 3.0
 - Gnome Shell / Cinnamon
@@ -9,6 +11,11 @@ Includes :
 - Xresource-terminal for XTerm based VTE
 - Icons (based on [Papyrus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) icon set
 
+## Screenshot
+
+![NordArc Gnome 1](https://raw.githubusercontent.com/robertovernina/NordArc/.github/NordArc-Gnome-01.png)
+![NordArc Gnome 2](https://raw.githubusercontent.com/robertovernina/NordArc/.github/NordArc-Gnome-02.png)
+![NordArc Gnome 3](https://raw.githubusercontent.com/robertovernina/NordArc/.github/NordArc-Gnome-03.png)
 
 ## Installation
 
