@@ -9,7 +9,7 @@ Includes :
 - Metacity / Unity / Xfwm4
 - Chrome browser
 - Xresource-terminal for XTerm based VTE
-- Icons (based on [Papyrus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) icon set
+- Icons (based on [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) icon set
 
 ## Screenshot
 
